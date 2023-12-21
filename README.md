@@ -6,6 +6,16 @@
 
 - 📫 How to reach me **emilsurkhaev9@gmail.com**
 
+### About Me
+
+🎓 **Education:** I am currently completing my Bachelor's degree in Software Engineering at LUQAM.
+
+🔍 **Interests:** I have always been passionate about various aspects of computer science, ranging from data structures to information security.
+
+🤝 **Community Contribution:** I am deeply committed to helping others and offering my support to guide them through their challenges.
+
+🌍 **Current Focus:** My current passion lies in cartography, which inspired my first project. Additionally, I am working on artificial intelligence, specifically on eye detection to generate alarms on a computer.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/emil-surkhaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emil-surkhaev" height="30" width="40" /></a>
