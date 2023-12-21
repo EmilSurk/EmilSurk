@@ -14,7 +14,7 @@
 
 🤝 **Community Contribution:** I am deeply committed to helping others and offering my support to guide them through their challenges.
 
-🌍 **Current Focus:** My current passion lies in cartography, which inspired my first project. Additionally, I am working on artificial intelligence, specifically on eye detection to generate alarms on a computer.
+🌍 **Current Focus:** My current passion lies in cartography, which inspired my first project. Additionally, on an eye detection program to generate alarms on a computer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
