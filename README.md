@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Emil Surkhaev</h1>
 <h3 align="center">A passionate fullstack developer from Canada</h3>
