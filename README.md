@@ -8,7 +8,7 @@
 
 ### About Me
 
-🎓 **Education:** I am currently completing my Bachelor's degree in Software Engineering at LUQAM.
+🎓 **Education:** I am currently completing my Bachelor's degree in Software Engineering at UQAM.
 
 🔍 **Interests:** I have always been passionate about various aspects of computer science, ranging from data structures to information security.
 
